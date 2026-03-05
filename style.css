@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.blue {
+    padding: 100px;
+    background-color: rgb(96, 96, 250);
+}
+.yo{
+    padding: 100px;
+    background-color: yellow;
+}
