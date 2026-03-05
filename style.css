@@ -17,6 +17,11 @@ body {
     padding-right: 340px;
     background-color: red;
 }
+
+.green{
+    background-color: rgb(7, 201, 7);
+    padding-bottom: 340px;
+}
 .flex{
     display: flex;
 }
