@@ -11,4 +11,8 @@ body {
 .yo{
     padding: 100px;
     background-color: yellow;
+    margin: 20px;
+}
+.flex{
+    display: flex;
 }
